@@ -1,0 +1,3 @@
+
+rootProject.name = "tsd-kotlin"
+
